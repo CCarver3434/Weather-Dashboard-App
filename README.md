@@ -8,7 +8,7 @@ The [Weather-Dashboard-App](https://ccarver3434.github.io/Weather-Dashboard-App/
 
 Here is a screenshot of the application being deployed, along with a link below:
 
-![Weather-Dashboard-App](asset/images/Weather-Dashboard-App-Screenshot.png)
+![Weather-Dashboard-App](assets/images/Weather-Dashboard-App-Screenshot.png)
 
 [Weather-Dashboard-App](https://ccarver3434.github.io/Weather-Dashboard-App/)
 
